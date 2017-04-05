@@ -1,1 +1,1 @@
-from weaveworks/weave-npc:1.9.4
+from weaveworks/weave-kube:1.9.4
