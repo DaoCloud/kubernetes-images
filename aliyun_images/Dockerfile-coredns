@@ -1,0 +1,1 @@
+FROM registry.cn-hangzhou.aliyuncs.com/google_containers/coredns:1.7.0
