@@ -1,1 +1,1 @@
-FROM registry.cn-hangzhou.aliyuncs.com/google_containers/coredns
+FROM registry.cn-hangzhou.aliyuncs.com/google_containers/coredns:v1.7.0
